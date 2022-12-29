@@ -1,11 +1,9 @@
-#Beefcord
+<h1>Beefcord</h1>
 
-credits
+<h3>credits</h3>
 
------------------------------------------------------
+Alexx  (@CamCordDev) · for camcord (what this was made from)
 
-Alexx - for camcord (what this was made from)
+rosie  (@acquitelol) · telling me method how to change fonts :3
 
-rosie - telling me method how to change fonts :3
-
-jaffa - cow graphics
+jaffa (@OS_Heaven_) · for making cow graphics
