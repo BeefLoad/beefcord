@@ -4,6 +4,6 @@
 
 Alexx  (@CamCordDev) · for camcord (what this was made from)
 
-rosie  (@acquitelol) · telling me method how to change fonts :3
+rosie  (@acquitelol) · telling me method how to change fonts 
 
 jaffa (@OS_Heaven_) · for making cow graphics
