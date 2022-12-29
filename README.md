@@ -1,5 +1,7 @@
 <h1>Beefcord</h1>
 
+made with a frying pan by @mrbeef777 :3
+
 <h3>credits</h3>
 
 Alexx  (@CamCordDev) · for camcord (what this was made from)
